@@ -1,4 +1,6 @@
 Hi
 How are You ?
 i am fine
-Thanks
+
+
+addded to show git diff commands
